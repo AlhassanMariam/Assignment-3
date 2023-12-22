@@ -1,0 +1,242 @@
+*{
+  margin: 5px;
+}
+.nav_menu{
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 30px;
+  height: 73px;
+  margin-inline-start: 40px;
+  margin-block-start: 28px;
+}
+#logo{
+  width: 200px;
+  height: 50px;
+  padding: 5px;
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  font: 20px;
+}
+ul{
+  width: 200px;
+  height: 50px;
+  padding: 0 40px;
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  font: 20px;
+}
+.left{
+  width: 70px;
+}
+.all_sect{
+  display: flex;
+}
+.check{
+  height: 54px;
+  width: 161px;
+  color: #1d2c3c;
+  font-size: 30px;
+  line-height: 36px;
+  font-style: normal;
+  font-weight: 400;
+  padding-top: 30px;
+  margin-left: 25px;
+  text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+}
+.acct{
+  border: 2px solid #646e7a;;
+  border-radius: 5px;
+  color: #1e2022;;
+  background-color: white;
+  font-size: 14px;
+  font-weight: bold;
+  height: 40px;
+  width: 90px;
+}
+form{
+  
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0 0 5px 0.01px rgb(62, 60, 60);
+  margin: 20px 200px;
+  width: 500px;
+}
+.number{
+  height: 30px;
+  width: 30px;
+  color: #58bc;
+  border: 2px solid #58bc;
+  font-size: 16px;
+  line-height: 30px;
+  display: inline-block;
+  border-radius: 50px;
+  text-align: center;
+}
+.names{
+  display: flex;
+  width: 100%;
+}
+.lin2{
+  height: 2px;
+  width: 100%;
+  background-color: beige;
+}
+.lin{
+  height: 2px;
+  width: 480px;
+  background-color: beige;
+}
+#name{
+  font-size: 14px;
+  height: 17px;
+  width: 187px;
+  font-weight: 600;
+  line-height: 16.8px;
+}
+.buy{
+  width: 80%;
+  border: none;
+  padding: 10px 10px;
+  background-color: rgb(39, 126, 97);
+  color: rgb(255, 255, 255);
+  margin-top: 15px;
+}
+footer{
+  margin: 1rem;
+  font-size: 12px;
+  text-align: center;
+}
+.child{
+  width: 250px;
+  background-color: rgb(25, 85, 158);
+  border-radius: 0px 5px 5px 0px;
+  box-shadow: 0px 4px 50px 0px #0408131a;
+  color: white;
+  padding: 40px;
+}
+#a, #b{
+  height: 30px;
+  border: none;
+  background-color: rgb(242, 242, 242);
+}
+
+/*#c,*/ #card{
+  margin-left: 15px;
+}
+#d{
+  display: flex;
+  width: 70%;
+  margin-left: 15px;
+  background-color: rgb(242, 242, 242);
+  border: none;
+  height: 30px;
+}
+#card{
+  display: flex;
+  width: 90%;
+  margin-left: 15px;
+  background-color: rgb(242, 242, 242);
+  border: none;
+  height: 30px;
+}
+.free{
+  display: block;
+  color: #fff;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.01px;
+}
+.dol{
+  display: inline;
+  color: #fff;
+  font-family: lato;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  letter-spacing: -0.015px;
+}
+.nine{
+  display: inline;
+  color: #fff;
+  font-family: lato;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: normal;
+  letter-spacing: -0.015px;
+  margin-right: -6px;
+}
+.year{
+  color: #fff;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.015px;
+}
+.auto{
+  display: block;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: -0.008px;
+  margin-top: 3px;
+  padding-bottom: 30px;
+}
+.checks{
+  height: 20px;
+  width: 20px;
+  color: rgba(150, 201, 252, 0.895);
+  border: 2px solid rgba(192, 230, 247, 0.895);
+  font-size: 15px;
+  line-height: 20px;
+  display: inline-block;
+  border-radius: 50px;
+  text-align: center;
+}
+.client{
+  display: flex;
+}
+.use{
+  margin-bottom: 20px;
+}
+.lin1{
+  height: 0.1px;
+  width:80%;
+  background-color: rgb(182, 182, 174);
+  margin: 30px 0;
+}
+.push{
+  font-weight: bol;
+  font-family: arial;
+}
+.solves{
+  font-family: a 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.ftp{
+  text-decoration: ;
+}
+.switch{
+  font-weight: ;
+  font-family: arial;
+  margin-top: 10px;
+}
+.kirk{
+  display: flex;
+}
+.beard{
+  padding-top: 22px;
+  margin-left: 0px;
+  font-family: arial;
+}
+.input{
+  display: fle;
+}
+.client{
+  padding: ;
+}
